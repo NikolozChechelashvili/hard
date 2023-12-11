@@ -1,0 +1,242 @@
+body {
+  height: 100vh;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  flex-direction: column;
+  /* background-repeat: no-repeat; */
+}
+.maglitadiv {
+  height: 80px;
+  background-color: #fff;
+  padding: 2%;
+  padding-right: 8.57%;
+  padding-left: 10%;
+  display: flex;
+  background-color: white;
+  justify-content: flex-end;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.maglitafoto {
+  width: 111.219px;
+  height: 18px;
+  flex-shrink: 0;
+  fill: #2c2830;
+}
+.navigation {
+  display: flex;
+  justify-content: flex-end;
+  gap: 33px;
+}
+.list {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  gap: 2vw;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  font-size: 13px;
+  line-height: normal;
+}
+.nav {
+  text-decoration: none;
+  color: #837d88;
+}
+.viewbu {
+  border: 1.5px solid #2c2830;
+  background: #fff;
+  width: 146px;
+  height: 40px;
+  flex-shrink: 0;
+}
+.shuamtavari {
+  height: 600px;
+  background: #2d2641;
+  padding-left: 10%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-right: 20%;
+}
+.shua {
+  width: 540px;
+}
+.shuah1 {
+  color: #fff;
+  font-size: 36px;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 64px;
+  letter-spacing: -1px;
+}
+.shuaspan {
+  color: #fff;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 26px;
+  margin-bottom: 5%;
+}
+.shuabut {
+  border: 1.5px solid white;
+  background-color: #2d2641;
+  color: white;
+  width: 146px;
+  height: 40px;
+  flex-shrink: 0;
+  margin-top: 4%;
+}
+.shuaimage {
+  margin-top: 20%;
+}
+.View {
+  text-decoration: none;
+  color: #fff;
+  text-align: center;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: 1.5px;
+}
+.content-qvemot {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 15%;
+  padding-right: 7%;
+}
+.content-qimage {
+  background-color: white;
+  width: 1400px;
+  height: 409px;
+  
+}
+.h1div {
+  width: 717px;
+  height: 64px;
+  flex-shrink: 0;
+}
+.h1qvemot {
+  color: #2c2830;
+  font-family: Serif;
+  font-size: 72px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 64px;
+  letter-spacing: -1px;
+}
+.charcho {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #2d2641;
+  margin-top: 12.5%;
+  width: 1342px;
+  height: 250px;
+  flex-shrink: 0;
+  margin-left: 9%;
+}
+.h1charcho {
+  width: 475px;
+  height: 112px;
+  color: #fff;
+  font-size: 28px;
+  font-weight: 400;
+  letter-spacing: -0.778px;
+  display: flex;
+  align-items: center;
+  margin-left: 81px;
+}
+.butcharcho {
+  width: 160px;
+  height: 40px;
+  flex-shrink: 0;
+  border: 1.5px solid white;
+  background-color: inherit;
+  color: white;
+  font-size: 13px;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: 1.5px;
+  margin-right: 80px;
+}
+.kaci3 {
+  display: flex;
+  gap: 13.4%;
+  padding-top: 8%;
+}
+.kaci2 {
+  width: 321px;
+}
+.kaci2 > h1 {
+  color: #2c2830;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.389px;
+}
+.kaci2 > span {
+  color: #837d88;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 26px;
+}
+.footer {
+  width: 100%;
+  height: 393px;
+  background-color: #fafafa;
+  margin-left: 9%;
+  margin-top: 9%;
+}
+.footer-child {
+  width: 1342px;
+  height: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+.footer-line {
+  width: 1342px;
+  height: 1px;
+  background-color: #dadada;
+  margin-top: 2.7%;
+}
+
+.footer-list {
+  gap: 240px;
+  display: flex;
+  margin-bottom: 88px;
+}
+li {
+  list-style: none;
+}
+.Headlist {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+.Head {
+  color: #837d88;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: 1.5px;
+  margin-bottom: 36px;
+}
+.low-list {
+  color: #2d2641;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: 1.5px;
+}
+u {
+  text-decoration: none;
+  margin-top: 48px;
+}
